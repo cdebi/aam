@@ -1,0 +1,43 @@
+---
+id: 862
+title: 'Week 7 activity: Grow microbes!'
+date: 2011-10-24T16:09:20+00:00
+author: beth
+guid: http://www.darkenergybiosphere.org/adoptamicrobe/?p=862
+permalink: /2011/10/24/week-7-activity-grow-microbes/
+categories:
+  - Weekly Projects
+---
+Greetings, microbe adopters! I hope you all had a great weekend!
+
+The scientists on board are busy getting ready for the next round of [hard rock coring]({{"/2011/10/21/hard-rock-microbiology/" | absolute_url }}). We will be working around the clock for at least a week, collecting rock samples for microbiological analysis. Some of the microbiologists on board will be trying to culture different types of microbes, based on the chemical reactions they use to get energy to grow. For instance, one media will contain some reduced iron and a little bit of oxygen, to try to cultivate iron oxidizing bacteria like [_Mariprofundus_](/adoptamicrobe/?p=228). Other media types will have  mixture of different sugars and proteins and other carbon sources, to try to cultivate heterotrophic microbes. For this week’s activity, you will also try to grow some microbes, using the [Winogradsky columns]({{"/2011/09/28/summary-of-week-2-activities/" | absolute_url }}) you started a few weeks ago!
+
+{% include figure image_path="/assets/nassa-winogradksy-1024x764.jpg" alt="nassa winogradksy" caption="A picture of the Winogradsky column that the NASSA team in set up with some mud from New York." %}
+
+For this activity, you will use the sterile Petri dishes and the little bag of agar powder that you received in the free kit – you will also need some wooden tooth picks, a marker, some tape, a little bit of bleach, and place to store your Petri dishes in the dark (like on a shelf under a box or some foil, or in a cabinet).
+
+![20100813_02]({{"/assets/20100813_02.jpg" | absolute_url}})
+
+**Before we begin, it is very important to think about safety when setting up this experiment. ** Make sure to read over all of the directions ahead of time, to get an idea of what you will be doing before you begin. **First** of all, you want to try to be as careful as possible to avoid contaminating your Petri dishes, so that you can get the best possible results from your real samples. This means not touching the inside of the dishes with your fingers, or leaving the dishes open too long, as little particles that could fall in them might contain microbes, too. **Second** of all, you want to be thoughtful of how you handle the Petri dishes once you have inoculated them. While the microbes that you are growing in the Winogradsky columns should not be dangerous or pathogenic, it is always better to be safe than sorry. So, once you have inoculated the dishes with your samples, please tape the edges of the Petri dishes closed and do not open them again. Also, please have adult supervision when conducting the experiment, for an added layer of safety. _For anyone wanting more background on safety, especially in the classroom, you could check out the National Science Teachers Association [safety guidelines](http://www.nsta.org/portals/safety.aspx)._
+
+**Step 1: Prepare your [Petri dishes](http://en.wikipedia.org/wiki/Petri_dish) with [agar](http://en.wikipedia.org/wiki/Agar).** For this experiment, you will be trying to grow microbes on a gel of agar – also called an [agar plate](http://en.wikipedia.org/wiki/Agar_plate). This gel is made from the mixture of water with dried agar, which is substance derived from seaweed. When it is mixed together, heated, and then cooled, it forms a nice gel – kind of like Jell-O.
+
+In your kit, you should find 3-4 Petri dishes and a little bag of agar powder. Each bag contains about 1 tablespoon of agar powder. You will dissolve this agar in 2 cups of water (or about half a liter), but you will also need to bring the solution to a boil, to sterilize the water. While agar is not toxic or harmful, do not eat it or breathe it in, and take care to keep it out of your eyes.
+
+There are a few different ways you can make your agar solution:
+
+  * if you are in a lab or kitchen with a hot plate, you could mix up the agar powder and water in a glass beaker or glass flask (or a clean glass tomato sauce jar) and heat it up to a gentle boil. WATCH CAREFULLY, as you do not want the solution to boil over. You will definitely need either rubber handling mitts or oven mitts to protect your hands when you are ready to pick up the beaker, as it will get very hot.
+  * If you are in a lab or kitchen with a microwave, you could also try microwaving the solution in a glass beaker or flask (it is a good idea to place a paper towel under the beaker or flask, just in case it bubbles over!). It will probably take about 2-3 minutes to heat the solution up to a boil. Watch carefully – once you first start to see bubbles forming, stop the microwave, give the beaker or flask a gentle swirl (USING MITTS to protect your hands), then microwave again for a few more seconds.
+  * Carefully place the hot glass vessel onto a paper towel or regular towel on the counter, to let it cool down for about 2 minutes. It is important to let the solution cool down a little, or else the Petri dishes might crack if the solution is too hot.
+  * Carefully pour the agar solution into the bottom half (smaller side) of the Petri dishes, to fill it up about one quarter of an inch thick (about the thickness of your pinky finger). Quickly place the top half of the Petri dish over the top, and leave the Petri dishes to cool and solidify (about an hour or so).
+  * If you have left over solution in your beaker, you can pour it into a plastic sandwich bag while it is still warm. Close it up and let it cool, and then throw it in the trash. Clean the glass vessel with warm water to remove any traces of solidified agar. If your agar solution happens to solidify in the beaker, it can be reheated to melt it again.
+
+**Step 2: Collect your sample!** You want to try to collect a little smear of the gooey, colorful material in your Winogradksy column. Depending on the set up of your column, you could try to collect the material with a cotton Q-tip, or with a toothpick, or with the end of a metal spoon – whatever works best for you. You may notice that the Winogradksy column kind of stinks when you sample it - this is probably from some of the sulfide compounds that the microbes are eating and excreting. Try not to get this material on your hands or in your mouth - it isn't really dangerous, just gross. Reseal the Winogradsky column when you are done collecting.
+
+Gently transfer the material onto the agar gel in one of the Petri dishes, smearing it in a spot about the size of a dime or nickel. Then, using a tooth pick, try smearing the sample around the rest of the plate in little streaks to thin it out – try holding the tooth pick at angle to the plate, instead of with the pointy end straight down, to get the best smearing action. As always, don't touch the agar gel or the end of the toothpick with your samples on it with your fingers. Once you are done smearing your sample, place the lid back on the Petri dish, and seal it in place with some tape. Give your hands a good wash, just to be safe! Using a marker, write the date and sample information on the dish. It is a good idea to write on the outside edge of the dish lid, so that you can have a clear view of the middle of the plate.
+
+**Step 3: Incubate your Petri dishes**. Identify a good place where you can safely store the Petri dish experiments for a few days at room temperature and away from light. Keep a watch on your dishes, and when you see some little dots forming on the surface, you know you have started some little colonies of microbes. Take a picture of your plates and send it to us by email [ deepmicrobe [at] gmail.com ] by Monday, October 31, 2011. In the email, please let us know what you swabbed and what you think about your experiment.
+
+**IMPORTANT!** Try not to open up the Petri dish once the microbes have started to grow in there – some of them may be harmful – and it is better to be safe than sorry. When you are done with the experiment, please have an adult carefully place a drop or two of bleach (or some vinegar) into the Petri dish to disinfect the plate for a few minutes, and then it can be placed into the trash.
+
+_Liability disclaimer: The experiments outlined above should be safe to perform with adult supervision, but participation in the activity is completely voluntary and done at your own risk. Please read and follow the directions carefully and avoid contact with anything that grows inside your experiment, just to be on the safe side. The Adopt A Microbe project has no liability for events that may occur during the course of the experiment._
